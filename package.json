@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "tsc && five-server ."
+  },
+  "devDependencies": {
+    "five-server": "^0.3.1",
+    "typescript": "^5.2.2"
+  }
+}
