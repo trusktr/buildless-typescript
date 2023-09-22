@@ -1,8 +1,12 @@
 {
   "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
     "strict": true,
     "noImplicitAny": true,
-    "module": "ESNext"
+    "noImplicitOverride": true,
+    "module": "ESNext",
+    "noEmit": true
   },
 
   "include": ["./src"]
